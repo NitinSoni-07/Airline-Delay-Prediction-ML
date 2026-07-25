@@ -85,7 +85,7 @@ Airline-Delay-Prediction-ML/
 
 ## 📊 Power BI Dashboard
 
-![Dashboard](dashboard/dashboard.PNG)
+![Dashboard](dashboard/Dashboard.png)
 
 ---
 
